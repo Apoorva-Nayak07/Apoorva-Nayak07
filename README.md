@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br><br>🚩 I'm currently working on AI-Powered Study Buddy Web App  <br>👯 I'm looking to collaborate on AI, Full Stack and Cybersecurity projects  <br>🤝 I'm looking for help with advanced machine learning and system design  <br>🌱 I'm currently learning Artificial Intelligence and Advanced Web Development  <br>💬 Ask me about Java, Python, Full Stack Development, and Data Science  <br>⚡ Fun fact: I love building useful tech projects during semester holidays
+## 🚩 I'm currently working on AI-Powered Study Buddy Web App  <br>👯 I'm looking to collaborate on AI, Full Stack and Cybersecurity projects  <br>🤝 I'm looking for help with advanced machine learning and system design  <br>🌱 I'm currently learning Artificial Intelligence and Advanced Web Development  <br>💬 Ask me about Java, Python, Full Stack Development, and Data Science  <br>⚡ Fun fact: I love building useful tech projects during semester holidays
 
 
 ## 🌐 Socials:
