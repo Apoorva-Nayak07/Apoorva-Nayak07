@@ -25,5 +25,35 @@
   />
 </p>
 
+### Github Stats:
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=apoorva-nayak07&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub Streak Stats" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=apoorva-nayak07&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
+</p>
+
+
+### Github Stats:
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=apoorva-nayak07&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub Streak Stats" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=apoorva-nayak07&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
+</p>
 
 
