@@ -22,8 +22,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorva--nayak1205-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apoorva-nayak1205/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Apoorva_Nayak_/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/apoorvan3j4o?tab=activity)
 [![Gmail](https://img.shields.io/badge/Gmail-apoorvanayak07-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvanayak07@gmail.com)
 </div>
 
