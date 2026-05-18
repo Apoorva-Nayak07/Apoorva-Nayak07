@@ -14,6 +14,24 @@
 
 </div>
 
+---
+## 🔥 Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva-Nayak07&theme=tokyonight" width="100%"/>
+
+</div>
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+[![Apoorva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Apoorva-Nayak07&theme=react-dark&hide_border=true&area=true&custom_title=Apoorva%20Nayak's%20Contribution%20Graph)](https://github.com/Apoorva-Nayak07)
+
+</div>
+
+
 ## 👩‍💻 About Me
 
 <div align="center">
@@ -137,17 +155,7 @@
 </div>
 
 
-##  Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorva--nayak1205-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apoorva-nayak1205/)
-[![Gmail](https://img.shields.io/badge/Gmail-apoorvanayak07-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvanayak07@gmail.com)
-</div>
-
----
-
-### Github Stats:
+##📊 Github Stats:
 
 <p align="center">
   <img 
@@ -157,9 +165,8 @@
   />
 </p>
 
----
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -167,4 +174,10 @@
 
 </div>
 
+##  Connect with me
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-apoorva--nayak1205-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/apoorva-nayak1205/)
+[![Gmail](https://img.shields.io/badge/Gmail-apoorvanayak07-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvanayak07@gmail.com)
+</div>
