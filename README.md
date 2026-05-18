@@ -1,3 +1,16 @@
+<div align="center">
+
+<!-- Dynamic Header with Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Apooorva%20Nayak&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Full+Stack+Apps+%F0%9F%9A%80;Hacking+for+Good+%F0%9F%94%90;LLM+%2B+Web3+%2B+Machine+Learning+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
+
 ## Hi there! 👋:
 
 - 👋 Hi, I’m @apoorvanayak.
