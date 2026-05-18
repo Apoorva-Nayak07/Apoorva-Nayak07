@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dynamic Header with Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Apooorva%20Nayak&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Premium GitHub Profile Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:111827&height=240&section=header&text=Apoorva%20Nayak&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%92%BB%20Full%20Stack%20Developer%20%7C%20%F0%9F%90%8D%20Python%20Developer%20%7C%20%F0%9F%A7%A0%20AI%20%26%20ML%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
