@@ -146,11 +146,8 @@
 | 🔐 **CyberShield IDS** | Detects suspicious network activities and supports cybersecurity monitoring | Python, ML, Cybersecurity |
 | 🦠 **AI Malware Detection System** | Classifies malware and predicts possible threats using ML models | Python, Random Forest, Isolation Forest |
 | 🧠 **AI Interview Preparation Platform** | Helps students prepare for interviews using AI-based question generation | React, Node.js, AI |
-| 🩺 **Swasthya Setu** | Healthcare support platform focused on digital medical assistance | HTML, CSS, JavaScript, PHP, MySQL |
 | 📈 **Stock Prediction System** | Analyzes stock data and predicts future market trends | Python, Data Science, ML |
 | 🔎 **Code Review Vulnerability Scanner** | Identifies security vulnerabilities in source code | Python, Cybersecurity |
-| 🧾 **Personal Expense Tracker** | Tracks daily expenses with category-wise summaries | HTML, CSS, JavaScript |
-| 🌐 **Portfolio Website** | Showcases my skills, projects, certifications, and contact details | HTML, CSS, JavaScript |
 
 </div>
 
