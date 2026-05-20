@@ -65,7 +65,7 @@
 🔐 Cybersecurity and AI-based projects  
 🤖 Machine Learning mini projects  
 🌐 Full Stack Web Applications   
-💼 Improving my GitHub portfolio and project documentation  
+💼 Improving my GitHub portfolio and project documentations
 
 </td>
 </tr>
