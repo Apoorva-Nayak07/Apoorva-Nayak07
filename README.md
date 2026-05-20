@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Progress;%F0%9F%8C%90+Crafting+Responsive+Web+Applications;%E2%9A%A1+JavaScript+%7C+React+%7C+Backend+APIs;%F0%9F%90%8D+Python+Projects+%7C+Automation+%7C+Tools;%F0%9F%94%90+Exploring+Cybersecurity+%26+Secure+Coding;%F0%9F%93%8A+Learning+Data+Science+%26+Machine+Learning;%F0%9F%9A%80+Building+Projects+that+Solve+Real+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Progress;%F0%9F%8C%90+Crafting+Responsive+Web+Applications;%E2%9A%A1+JavaScript+%7C+React+%7C+Backend+APIs;%F0%9F%90%8D+Python+Projects+%7C+Automation+%7C+Tools;%F0%9F%94%90+Exploring+Cybersecurity+%26+Secure+Coding;%F0%9F%93%8A+Learning+Data+Science+%26+Machine+Learning;%F0%9F%9A%80+Building+Projects+that+Solve+Real+Problems)](https://git.io/typing-svg)
 
 </div>
 
