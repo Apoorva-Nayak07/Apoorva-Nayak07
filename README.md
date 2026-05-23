@@ -41,7 +41,7 @@
 <td>
 
 ✨ Full Stack Developer in Progress  
-🐍 Python & Java Developer  
+🐍 Python & Java Developer 
 🤖 Exploring AI, ML & Data Science  
 🔐 Interested in Cybersecurity Projects  
 🌐 Building real-world web applications  
