@@ -119,12 +119,6 @@
 ![Vulnerability Scanner](https://img.shields.io/badge/Vulnerability%20Scanner-7F1D1D?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Port Scanner](https://img.shields.io/badge/Port%20Scanner-111827?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 🏥 Project Domains
-![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-06B6D4?style=for-the-badge&logo=mediamarkt&logoColor=white)
-![Fitness Recommendation](https://img.shields.io/badge/Fitness%20Recommendation-22C55E?style=for-the-badge&logo=googlefit&logoColor=white)
-![Stock Prediction](https://img.shields.io/badge/Stock%20Prediction-0EA5E9?style=for-the-badge&logo=tradingview&logoColor=white)
-![Web Applications](https://img.shields.io/badge/Web%20Applications-F97316?style=for-the-badge&logo=webflow&logoColor=white)
-
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
