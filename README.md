@@ -111,7 +111,6 @@
 ### 🤖 AI, ML & Data
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Prediction Systems](https://img.shields.io/badge/Prediction%20Systems-8B5CF6?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![AI Projects](https://img.shields.io/badge/AI%20Projects-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🔐 Cybersecurity
