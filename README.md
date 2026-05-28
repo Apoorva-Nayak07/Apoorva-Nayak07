@@ -155,14 +155,6 @@
 </p>
 
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Apoorva-Nayak07&theme=radical&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ##  Connect with me
 
 <div align="center">
