@@ -144,13 +144,13 @@
 </div>
 
 
-##📊 Github Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=apoorva-nayak07&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-    alt="GitHub Streak Stats" 
-    width="48%" 
+  <img
+    src="https://streak-stats.demolab.com?user=Apoorva-Nayak07&theme=highcontrast&hide_border=true"
+    alt="GitHub Streak Stats"
+    width="48%"
   />
 </p>
 
