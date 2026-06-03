@@ -26,9 +26,7 @@
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-
-[![Apoorva's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Apoorva-Nayak07&theme=react-dark&hide_border=true&area=true&custom_title=Apoorva%20Nayak's%20Contribution%20Graph)](https://github.com/Apoorva-Nayak07)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorva-Nayak07&theme=react-dark&hide_border=true&area=true&custom_title=Apoorva%20Nayak's%20Contribution%20Graph" width="100%" />
 </div>
 
 
