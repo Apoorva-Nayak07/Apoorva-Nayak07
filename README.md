@@ -14,6 +14,14 @@
 
 </div>
 
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
+</p>
+
 ---
 ## 🔥 Contribution Overview
 
@@ -23,13 +31,6 @@
 
 </div>
 
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
-</p>
 
 ## 📈 GitHub Activity Graph
 
