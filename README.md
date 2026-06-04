@@ -52,7 +52,7 @@
 🤖 Exploring AI, ML & Data Science  
 🔐 Interested in Cybersecurity Projects  
 🌐 Building real-world web applications  
-📚 Always learning and improving  
+📚 Always learning and improving
 
 </td>
 </tr>
