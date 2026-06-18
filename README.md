@@ -38,6 +38,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorva-Nayak07&theme=react-dark&hide_border=true&area=true&custom_title=Apoorva%20Nayak's%20Contribution%20Graph" width="100%" />
 </div>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Apoorva-Nayak07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorva-Nayak07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Nayak07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ## 👩‍💻 About Me
 
