@@ -162,16 +162,6 @@
 </div>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Apoorva-Nayak07&theme=highcontrast&hide_border=true"
-    alt="GitHub Streak Stats"
-    width="48%"
-  />
-</p>
-
 
 ##  Connect with me
 
