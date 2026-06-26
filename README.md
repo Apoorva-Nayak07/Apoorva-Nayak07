@@ -23,13 +23,6 @@
 </p>
 
 --- 
-## 🔥 Contribution Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva-Nayak07&theme=tokyonight" width="100%"/>
-
-</div>
 
 
 ## 📈 GitHub Activity Graph
