@@ -51,16 +51,6 @@
 
 ---
 
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorva-Nayak07&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 
 <div align="center">
 
