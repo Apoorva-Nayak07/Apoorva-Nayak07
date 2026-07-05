@@ -33,15 +33,56 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Apoorva-Nayak07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorva-Nayak07&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Nayak07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=GitHub+Statistics;Coding+Journey;Always+Learning+🚀" />
 
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Apoorva-Nayak07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Apoorva-Nayak07&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-Nayak07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apoorva-Nayak07&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+
+<div align="center">
+
+### ⚡ Profile Summary
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva-Nayak07&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 More Insights
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Apoorva-Nayak07&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Apoorva-Nayak07&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Apoorva-Nayak07&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
 
 ## 👩‍💻 About Me
 
